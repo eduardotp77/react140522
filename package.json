@@ -1,0 +1,25 @@
+{
+  "name": "web-con-react",
+  "version": "1.0.0",
+  "description": "Ejercicio de como crear proyecto NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardotp77/react140522.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "amigos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardotp77/react140522/issues"
+  },
+  "homepage": "https://github.com/eduardotp77/react140522#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}
